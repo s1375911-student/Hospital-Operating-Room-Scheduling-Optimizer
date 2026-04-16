@@ -307,3 +307,7 @@ Educational use only. This project is submitted as coursework for COMP 2090SEF.
 ---
 
 **Note:** This system demonstrates algorithmic problem-solving and data structure implementation for educational purposes. For production hospital systems, additional safety validations, regulatory compliance, and real-time constraints would be required.
+
+## Demonstration Video
+
+https://youtu.be/z-ELhW5O5Uc?si=gXb4lXuQ59fbuc0P
